@@ -1,3 +1,5 @@
+// Commit incremental para demostrar cambios
+
 #include <iostream>
 #include <string>
 #include <vector>
@@ -86,4 +88,5 @@ int main(int argc, char** argv) {
 	mt.ejecutar();
 	
 	return 0;
+
 }
